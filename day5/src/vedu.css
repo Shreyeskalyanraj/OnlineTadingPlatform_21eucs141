@@ -1,0 +1,37 @@
+
+
+
+
+.home__container {
+    align-items:center;
+    justify-content: center;
+}   
+.title{
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+}
+.home__data{
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 50px;   
+}
+.nav__container{
+    display:flex;
+}
+.cc{
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 50px;
+}
+.home__data{
+    align-items:center;
+    justify-content: center;
+    text-align: center;   
+}
+#g{
+    display: flex;
+    position:center;
+}
