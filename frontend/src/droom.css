@@ -1,0 +1,57 @@
+.trading-page {
+  margin: 20px;
+  padding: 20px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 28px;
+  color: #007BFF;
+  margin-bottom: 10px;
+}
+
+.welcome {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.section h2 {
+  font-size: 24px;
+  color: #007BFF;
+  margin-bottom: 10px;
+}
+
+.section p {
+  margin-bottom: 10px;
+}
+
+.section ul {
+  margin-left: 30px;
+}
+
+.section li {
+  margin-bottom: 5px;
+}
+
+.join-now {
+  text-align: center;
+  font-size: 18px;
+  color: #007BFF;
+  margin-top: 30px;
+}
+/* droom.css */
+
+/* ... Your existing CSS styles ... */
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  width: 200px; /* Set the desired width */
+  height: auto; /* Maintain aspect ratio */
+  margin-bottom: 20px;
+}
+

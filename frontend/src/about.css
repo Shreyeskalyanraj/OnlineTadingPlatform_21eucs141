@@ -1,0 +1,33 @@
+.about-page {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* header1 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  } */
+  
+  main {
+    padding: 2rem;
+  }
+  
+  .about-section {
+    margin-bottom: 2rem;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5rem;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+  

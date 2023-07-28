@@ -1,0 +1,162 @@
+/* 
+
+
+
+.home__container {
+    align-items:center;
+    justify-content: center;
+}   
+.title{
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+}
+.home__data{
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 50px;   
+}
+.nav__container{
+    display:flex;
+}
+.cc{
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 50px;
+}
+.home__data{
+    align-items:center;
+    justify-content: center;
+    text-align: center;   
+}
+#g{
+    display: flex;
+    position:center;
+}
+.image{
+    max-width: 400;
+    max-height: 400;
+} */
+
+/* vedu.css */
+
+/* Global styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav__toggle {
+    display: none;
+  }
+  
+  .nav__dark {
+    display: flex;
+    align-items: center;
+  }
+  
+  .change-theme {
+    cursor: pointer;
+  }
+  
+  
+  .home__img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .cc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  .image-container img {
+    width: 350px;
+    height: auto;
+  }
+  
+  .home__content {
+    margin-top: 80px;
+    text-align: center;
+  }
+  
+  /* Responsive styles */
+  @media screen and (max-width: 768px) {
+    .nav__toggle {
+      display: block;
+      cursor: pointer;
+    }
+  
+    .nav__dark {
+      justify-content: flex-end;
+    }
+  
+    .nav__close {
+      display: none;
+    }
+  
+    .nav.container {
+      flex-direction: column;
+    }
+  
+    .header {
+      padding: 10px 20px;
+    }
+  
+    .nav__toggle {
+      font-size: 24px;
+      margin-left: 10px;
+    }
+  
+    .cc {
+      margin: 10px;
+    }
+  
+    .image-container img {
+      width: 100%;
+      max-width: 350px;
+    }
+  
+    .home__content {
+      margin-top: 40px;
+    }
+    .image
+    {
+        width: 100%;
+    }
+  }
+  
+  
